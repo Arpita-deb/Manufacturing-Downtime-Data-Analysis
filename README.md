@@ -1,6 +1,6 @@
 # Manufacturing Downtime Exploratory Data Analysis
 
-This repository contains the files related to the data analysis of Production Line Downtime of a Soda producing company. This project was done as a part of Maven Analytics monthly data challenge for September 2024. The dataset was provided by Maven Analytics.
+This repository contains the files related to the analysis of Production Line Downtime of a Soda producing company. The dataset was provided by Maven Analytics.
 
 ### What is included in this repository:
 
