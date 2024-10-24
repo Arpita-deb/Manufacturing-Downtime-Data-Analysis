@@ -9,7 +9,7 @@ This repository contains the files related to the analysis of Production Line Do
 3. Associated data visualizations
 4. A project report which contained detailed analysis results
 
-A Medium article is also available [here](https://medium.com/@arpita_deb/manufacturing-downtime-54c409ad24f7).
+To get a quick overview of the project, take a look at this [report](https://drive.google.com/file/d/1KtRk5MGXLVIaETjHC83Kek6H_dEK4bRX/view?usp=sharing). A detailed Medium article is also available [here](https://medium.com/@arpita_deb/manufacturing-downtime-54c409ad24f7).
 
 *********************************************************************************
 
@@ -154,5 +154,5 @@ By addressing these core areas, especially operator-related downtime factors, th
 
 ## Appendix:
 
-* A Medium article is also available [here](https://medium.com/@arpita_deb/manufacturing-downtime-54c409ad24f7).
-
+* [Medium article](https://medium.com/@arpita_deb/manufacturing-downtime-54c409ad24f7).
+* [Project Report](https://drive.google.com/file/d/1KtRk5MGXLVIaETjHC83Kek6H_dEK4bRX/view?usp=sharing)
